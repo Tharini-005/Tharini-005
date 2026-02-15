@@ -1,14 +1,14 @@
 # Hi 👋 I'm Tharini
 
-🎓 ECE Student  
-📚 IIT Madras BS Data Science (Foundation Level Completed)  
-⚡ Interested in Embedded Systems & IoT  
+🎓 3rd Year Electronics and Communication Engineering (ECE) Student  
+📚 Completed Foundation Level – IIT Madras BS in Data Science  
+⚡ Interested in Embedded Systems, IoT & Data-Driven Applications  
+🔬 Hands-on experience in circuit simulation and microcontroller programming  
 🚀 Working on Smart Footstep Power Generator with IoT Monitoring  
-💻 Currently learning C programming  
 
-## Skills
-- C Programming
-- Embedded Systems
-- ESP32
-- IoT
-- Basic AI/ML
+## Technical Skills
+- C, Python (Basics)
+- Embedded Systems & Microcontrollers (ESP32, Arduino)
+- Circuit Simulation (Tinkercad, Wokwi, Proteus)
+- IoT Fundamentals
+- Basic Data Analysis & Statistics
