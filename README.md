@@ -1,6 +1,6 @@
 # Hi 👋 I'm Tharini
 
-🎓 3rd Year Electronics and Communication Engineering (ECE) Student  
+🎓 Final Year Electronics and Communication Engineering (ECE) Student  
 📚 Completed Foundation Level – IIT Madras BS in Data Science  
 ⚡ Interested in Embedded Systems, IoT & Data-Driven Applications  
 🔬 Hands-on experience in circuit simulation and microcontroller programming  
